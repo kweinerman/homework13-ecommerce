@@ -18,9 +18,13 @@ SO THAT my company can compete with other e-commerce companies
 ## Video
 Please see the attached video in Assets 
 
+
+https://user-images.githubusercontent.com/85956994/135559193-cccbccb9-b9d7-492d-8149-14c54573ce7b.mov
+
+
 ## Usage
 Use via mysql and node to manage budget requests for my e commerce back end 
-You will need INosmia or postman to test routes etc.
+You will need Inosmia or postman to test routes etc.
 
 ## Updates
 
